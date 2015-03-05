@@ -24,6 +24,7 @@ public class SuperLoc {
 		Bukkit.getScheduler().scheduleSyncDelayedTask(Main.plugin, new Runnable() {
 
 			@Override
+                        @SuppressWarnings("IncompatibleEquals")
 			public void run() {
 				if (finalLoc != null && superLocs.containsKey(finalLoc) && superLocs.get(finalLoc).equals(this))
 					superLocs.remove(finalLoc);

@@ -5,10 +5,8 @@ import java.util.Date;
 import org.bukkit.entity.Player;
 
 public class FullInventory {
-	static long cooldownTime = (long) (1 * 1000); // Seconds * (Milliseconds
-													// per
-
-	// Second)
+	static long cooldownTime = (long) (1 * 1000); // Seconds * (Millisecond
+        // per	// Second)
 
 	public static void addCooldown(Player p) {
 		MetaLists.cooldown.add(p, new Date().getTime() + cooldownTime);
