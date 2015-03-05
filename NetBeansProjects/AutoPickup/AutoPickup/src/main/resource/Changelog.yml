@@ -1,0 +1,68 @@
+Version 2.7:
+* Added Silk Touch support
+* Added color code support for messages
+
+Version 2.6:
+* More bug fixes
+
+Version 2.5:
+* A ton of bug fixes
+* I rewrote a lot of this plugin, so there might be new bugs
+
+Version 2.4:
+* Added AutoSmelt.yml
+* Small Bug Fixes
+
+Version 2.3:
+* More Bug Fixes
+
+Version 2.2:
+* A few huge Bug Fixes
+
+Version 2.1:
+* A whole bunch of Bug Fixes
+
+Version 2.0:
+* When you break a chest it all drops rather than it going straight into your inventory
+* Add config option for drops to fall when full
+* Made all blocks work with fortune (config option)
+* Add a permission and command to turn on and off auto pickup
+* Add permission for xp, mobs, and blocks
+* Moved permission settings to Permissions.yml
+
+version: 1.9:
+* Added configurable messages
+
+version: 1.8:
+* Fixed huge bugs concerning player deaths
+
+version: 1.7:
+* Added mob support
+* Auto gives experience
+* Added some messages
+
+version: 1.6:
+* Added iron ingot and gold ingot support for fortune with autosmelt,
+* Added infinite picks
+
+version: 1.5:
+* Fixed an autosmelt bug
+
+version: 1.4:
+* Made the plugin more compatible with other plugins
+
+version: 1.3:
+* Added AutoSmelt and AutoBlock commands
+
+version: 1.2:
+* Added more permissions
+
+version: 1.1:
+* First release on BukkitDev
+* Fixed tools not breaking
+* Added OtherDrops support (This is still in development)
+* Added AutoSmelt (In Config),
+* Added AutoBlock (In Config)
+
+version: 1.0:
+*Initial Release

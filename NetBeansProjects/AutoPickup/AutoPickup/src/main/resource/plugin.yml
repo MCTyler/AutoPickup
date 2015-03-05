@@ -1,0 +1,16 @@
+name: Auto_Pickup
+version: 3.0
+main: AutoPickup.Main
+commands:
+  AutoPickup:
+    description: Reloads the plugin
+    aliases: [ap]
+  AutoPickupToggle:
+    description: Toggles autopickup
+    aliases: [apt, aptoggle, toggleap, toggleautopickup]
+  AutoSmelt:
+    description: AutoSmelts your inventory
+    aliases: [as]
+  AutoBlock:
+    description: Changes all of your ingots to blocks
+    aliases: [ab]
